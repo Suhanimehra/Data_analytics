@@ -1,0 +1,308 @@
+ Employee ID ,AGE , Department ,Monthly Salary,Years Experience, Gender, City , Joining Date , Employment Type 
+EMP0298,37.0,,27613.0,20.0,Female, Chennai  ,2021-01-09,Full-Time
+EMP0087,24.0,IT,63892.0,12.0,Female,Pune,2021-02-19,Full-Time
+EMP0283,,IT,68224.0,14.0,male,Delhi,2025-06-05,Full-Time
+EMP0065,36.0,IT,,19.0,Female,,2025-09-06,Full-Time
+EMP0017,40.0,Marketing,47729.0,11.0,MALE,Delhi,2025-09-22,Full-Time
+EMP0297,53.0,Finance,74459.0,14.0,Female,Chennai,2025-08-17,Contract
+EMP0295,41.0,HR,99191.0,11.0,Male,Bengaluru,2022-04-24,Full-Time
+EMP0174,48.0,Finance,95930.0,11.0, male ,Mumbai,2022-03-25,Part-Time
+EMP0096,31.0,Operations,48098.0,13.0,Male,Chennai,2024-09-17,Full-Time
+EMP0211,30.0,Operations,26549.0,13.0,female,Mumbai,2020-12-18,Part-Time
+EMP0289,41.0,Operations,23622.0,11.0,Female,Delhi,2025-09-09,Contract
+EMP0184,47.0,Marketing,34558.0,11.0,Male,Hyderabad,2024-07-06,CONTRACT
+EMP0102,28.0, marketing ,85465.0,15.0,Female,Pune,2019-01-20,Full-Time
+EMP0014,49.0,HR,61664.0,20.0,Other,Mumbai,2025-05-16,Full-Time
+EMP0240,44.0,IT,115796.0,11.0,male,mumbai,2019-08-26,Contract
+EMP0226,32.0,HR,31315.0,17.0,Female,Mumbai,2024-10-05,Full-Time
+EMP0072,28.0,Marketing,85281.0,8.0,Male,Delhi,2024-03-19,Full-Time
+EMP0232,53.0,IT,46805.0,14.0,Male,Delhi,2025-01-10,Full-Time
+EMP0160,50.0,IT,97158.0,6.0,Female,Delhi,2025-12-11,FULL-TIME
+EMP0258,24.0,Operations,27894.0,17.0,Male,,2020-07-14,Full-Time
+EMP0083,27.0,Operations,120874.0,11.0,Female,Delhi,2023-03-31,Full-Time
+EMP0166,51.0,Operations,102371.0,8.0,Female,Hyderabad,2019-09-01,Full-Time
+EMP0248,36.0,Finance,27320.0,16.0,Male,,2024-04-07,full-time
+EMP0117,22.0, operations ,75324.0,8.0,Male,Delhi,2022-02-26,Full-Time
+EMP0172,,Operations,123624.0,4.0,Male, chennai ,2021-03-24,Contract
+EMP0113,42.0,HR,,5.0,Male,Bengaluru,2023-03-27,Full-Time
+EMP0252,39.0,HR,104553.0,10.0,Female,Delhi,2024-04-02,Full-Time
+EMP0159,40.0,Operations,35176.0,8.0,Female,Pune,2019-01-04,Full-Time
+EMP0012,58.0,Marketing,69668.0,3.0,Male,PUNE,2023-09-22,Part-Time
+EMP0123,45.0,Marketing,109040.0,18.0,Female,Hyderabad,2019-03-09,
+EMP0148,29.0,Operations,54387.0,12.0,Female,Chennai,2020-03-26,Full-Time
+EMP0247,49.0,Finance,38101.0,11.0,Female,Mumbai,2021-04-16,Contract
+EMP0140,37.0,HR,114532.0,17.0,,Delhi,2025-03-12,Full-Time
+EMP0215,49.0,Operations,102133.0,4.0,Female,Pune,2020-08-02,Full-Time
+EMP0081,, it ,96512.0,12.0, Female  ,Mumbai,2023-11-25,Full-Time
+EMP0079,42.0,HR,75892.0,7.0,Female,Hyderabad,2023-05-21,Contract
+EMP0269,44.0,Marketing,67995.0,20.0,Female,Delhi,2020-02-19,Part-Time
+EMP0206,31.0, finance ,102474.0,3.0,Female,,2019-09-03,Full-Time
+EMP0194,34.0,Marketing,107016.0,8.0,Female,Pune,2024-03-29,Full-Time
+EMP0109,38.0, Operations  ,71021.0,15.0,Female,Bengaluru,2020-08-22, full-time 
+EMP0059,49.0,IT,29464.0,20.0,Male,Pune,2024-09-09,Full-Time
+EMP0278,50.0,Finance,98755.0,4.0,Female,Mumbai,2019-12-17,Contract
+EMP0138,22.0,operations,56365.0,,female,Pune,2020-11-23,Full-Time
+EMP0095,55.0,Marketing,31280.0,11.0,Male,,2023-08-09,Full-Time
+EMP0121,37.0,Operations,37331.0,1.0,Male,Mumbai,,full-time
+EMP0217,24.0,OPERATIONS,,20.0,Male,Mumbai,2019-08-11,Full-Time
+EMP0103,51.0,HR,39275.0,11.0,,Hyderabad,2019-04-11,Part-Time
+EMP0165,36.0,IT,,15.0,Male,HYDERABAD,2019-09-28,Full-Time
+EMP0250,22.0, marketing ,84410.0,,Other,Pune,2022-07-13,Full-Time
+EMP0176,,Marketing,119974.0,3.0,male,Bengaluru,,Full-Time
+EMP0139,,IT,98038.0,9.0,Female,Chennai,2022-05-02,Contract
+EMP0029,41.0,IT,74021.0,8.0,Male,Pune,2019-06-13,Contract
+EMP0101,52.0, operations ,75616.0,16.0, female ,Pune,2021-07-24,Full-Time
+EMP0173,50.0,FINANCE,22503.0,15.0,Male,Hyderabad,2021-01-29,Full-Time
+EMP0244,45.0,IT,25724.0,17.0, Female  ,Hyderabad,2024-03-01,FULL-TIME
+EMP0197,34.0,IT,121736.0,17.0,Female,,,Full-Time
+EMP0192,44.0,Operations,68795.0,9.0,Female,Mumbai,2021-04-02,Part-Time
+EMP0216,31.0,IT,108201.0,10.0,Male,Delhi,2019-01-02,Part-Time
+EMP0300,21.0,Marketing,85480.0,,Male,Delhi,2024-02-22,Full-Time
+EMP0259,27.0,MARKETING,90921.0,8.0,Female,Mumbai,2023-05-19,Contract
+EMP0038,52.0, hr ,52578.0,3.0,Male,Delhi,2019-03-01,Full-Time
+EMP0131,42.0,IT,97068.0,,Female,Bengaluru,,Part-Time
+EMP0170,21.0,OPERATIONS,60765.0,0.0,Male,Bengaluru,2025-11-02,Full-Time
+EMP0183,39.0,HR,34642.0,20.0,Female,Bengaluru,2021-04-07,Full-Time
+EMP0169,33.0,IT,36412.0,7.0,Female,Chennai,2019-10-30,Full-Time
+EMP0198,,HR,69230.0,15.0,Female,Chennai,2022-06-10,Contract
+EMP0290,38.0,Operations,49888.0,0.0, Male  ,Bengaluru,2025-02-09,Full-Time
+EMP0243,24.0,IT,115672.0,,Male,hyderabad,2022-10-27,full-time
+EMP0245,44.0,Operations,22563.0,6.0,Female,Delhi,2023-02-11,Full-Time
+EMP0043,47.0,Marketing,109982.0,19.0,Female,Hyderabad,2025-09-26,Full-Time
+EMP0137,43.0,Finance,97245.0,18.0,Female,Mumbai,2020-09-29,Full-Time
+EMP0055,39.0,,78963.0,16.0,Male,Bengaluru,2023-12-07,Full-Time
+EMP0285,,Finance,105773.0,8.0,female,Bengaluru,2020-04-14,Full-Time
+EMP0219,37.0, finance ,90572.0,15.0,Male,HYDERABAD,,CONTRACT
+EMP0287,27.0,Marketing,27461.0,2.0, female ,Hyderabad,31/31/2024,Contract
+EMP0177,48.0,Operations,65652.0,14.0,Male,Chennai,not-a-date,Full-Time
+EMP0246,,IT,22559.0,10.0,Male,Chennai,2020-10-20,Full-Time
+EMP0049,46.0,,120931.0,19.0,Male,Pune,2024-12-06,Contract
+EMP0030,37.0,finance,59738.0,,Male,Chennai,2021-03-30,FULL-TIME
+EMP0004,37.0,Operations,35859.0,18.0,Male,Delhi,2019-11-27,Full-Time
+EMP0085,44.0,IT,39447.0,12.0,Male,Pune,2023-06-09,Contract
+EMP0272,21.0,Finance,42783.0,13.0,Female,Pune,2024-10-05,Full-Time
+EMP0190,32.0,Marketing,23267.0,2.0,Male,Chennai,2021-12-01,Full-Time
+EMP0030,37.0,finance,59738.0,,Male,Chennai,2021-03-30,FULL-TIME
+EMP0291,51.0,Operations,32298.0,8.0,female,chennai,2022-03-08,Full-Time
+EMP0001,24.0,HR,85477.0,0.0,Male,Bengaluru,2025-05-24,Full-Time
+EMP0082,37.0,Operations,36153.0,14.0,Female,Delhi,2020-09-06,Full-Time
+EMP0039,31.0,,103654.0,9.0,Male,Delhi,,Full-Time
+EMP0204,47.0,Operations,116600.0,3.0,Male,Mumbai,2025-02-25,Full-Time
+EMP0191,46.0,operations,31854.0,10.0,Female,Pune,2021-10-06,Contract
+EMP0021,40.0,HR,66663.0,18.0,,Delhi,2024-05-20,full-time
+EMP0233,21.0,IT,68689.0,16.0,Female,Bengaluru,2020-11-17,Full-Time
+EMP0145,58.0,Finance,103908.0,14.0,Male,Mumbai,2023-12-23,Contract
+EMP0157,25.0,IT,,9.0,Female,Pune,2024-07-29,Full-Time
+EMP0188,35.0,Finance,92668.0,,Female,Delhi,2024-09-30,Full-Time
+EMP0122,46.0,Marketing,117918.0,1.0,,Pune,2020-01-29,Full-Time
+EMP0129,42.0,IT,72284.0,11.0,Female,Delhi,,Full-Time
+EMP0126,42.0,IT,34061.0,1.0,Female,Bengaluru,2023-05-04,Contract
+EMP0260,43.0,Operations,104500.0,7.0,Male,Mumbai,, Full-Time  
+EMP0110,,IT,69996.0,10.0,Male,Chennai,2019-12-20,Contract
+EMP0141,58.0, operations ,106163.0,14.0, female ,Bengaluru,2020-07-25,Full-Time
+EMP0046,57.0,HR,55821.0,2.0,Male,Pune,2022-02-09, Full-Time  
+EMP0016,50.0,Marketing,87875.0,9.0,Male,Bengaluru,,Full-Time
+EMP0134,42.0,IT,101755.0,6.0,female,Chennai,2019-12-19,Contract
+EMP0208,57.0,HR,33390.0,19.0,,Bengaluru,2020-01-28,Full-Time
+EMP0010,24.0,,110330.0,1.0,Female,Chennai,2020-12-25,full-time
+EMP0071,51.0,HR,120109.0,6.0,Female, bengaluru ,2019-02-23, Contract  
+EMP0265,58.0,Operations,109152.0,10.0,Female,Pune,2024-04-26,Full-Time
+EMP0070,,Marketing,35606.0,0.0,Female,Hyderabad,2025-11-06,full-time
+EMP0228,43.0,IT,114395.0,13.0,Female,Chennai,2020-03-05, full-time 
+EMP0156,46.0,Finance,67104.0,20.0,Female,Mumbai,2023-10-21,Full-Time
+EMP0270,43.0,Finance,,19.0,Female, mumbai ,2020-03-24,Full-Time
+EMP0212,48.0,Marketing,112558.0,4.0,Female,MUMBAI,2019-06-22,Contract
+EMP0069,23.0,IT,116651.0,19.0,Female,Bengaluru,2025-07-21,Full-Time
+EMP0119,30.0,HR,,0.0,Male, mumbai ,2021-01-02,Part-Time
+EMP0266,43.0,HR,93907.0,,Male,Pune,2019-08-08,Full-Time
+EMP0276,39.0,HR,73967.0,7.0,Male,Mumbai,2025-12-07,Full-Time
+EMP0223,47.0,IT,36062.0,5.0,Female,,2021-05-14,Full-Time
+EMP0098,46.0,IT,82778.0,7.0,Male,Chennai,2025-01-09,Full-Time
+EMP0162,46.0,IT,78958.0,14.0,Female,Chennai,2025-12-30,Full-Time
+EMP0020,38.0,Marketing,950000.0,13.0,Female,Delhi,2023-11-29,Full-Time
+EMP0051,49.0,Finance,72393.0,1.0,,Bengaluru,2021-04-19,Full-Time
+EMP0099,45.0,HR,27165.0,20.0,Male,Hyderabad,,Part-Time
+EMP0264,56.0,IT,,,Male,Hyderabad,2019-11-01,Full-Time
+EMP0018,25.0,Marketing,49445.0,,Female,Delhi,2022-10-18,Full-Time
+EMP0078,29.0,Marketing,30702.0,12.0,Male,Chennai,2022-05-13,Full-Time
+EMP0254,33.0,HR,,19.0,Male,Chennai,2022-04-03,Contract
+EMP0181,,HR,112428.0,19.0,Female,Pune,2024-05-05, Full-Time  
+EMP0052,28.0,IT,89217.0,6.0,Male,Delhi,2021-04-03,Full-Time
+EMP0288,42.0,IT,41883.0,12.0,Female,Pune,,Full-Time
+EMP0152,31.0,Operations,37221.0,7.0,,Pune,2022-11-12, part-time 
+EMP0035,54.0,Finance,40840.0,9.0,Female,Mumbai,2022-01-31,Full-Time
+EMP0005,37.0,Finance,107084.0,9.0, Other  ,Bengaluru,2025-02-05,Full-Time
+EMP0155,37.0,Finance,79166.0,1.0,Male,Chennai,2021-01-24,
+EMP0154,32.0,IT,,20.0,Male,Mumbai,2022-07-04,Full-Time
+EMP0201,34.0,IT,23245.0,10.0,Male,Chennai,2020-11-14,Full-Time
+EMP0076,39.0,IT,96749.0,4.0,Female,Bengaluru,2024-05-03,Full-Time
+EMP0200,57.0,Finance,67558.0,9.0,Male,Delhi,2025-04-02,Full-Time
+EMP0214,38.0,Operations,51242.0,6.0,Male,Chennai,2019-05-16,Contract
+EMP0077,33.0,Marketing,81822.0,2.0,Male,Delhi,2019-09-27,Full-Time
+EMP0255,46.0,Operations,51643.0,6.0,Female,Hyderabad,2021-03-01, Full-Time  
+EMP0023,27.0,,39007.0,9.0,Other,,2023-01-29,Contract
+EMP0094,35.0,Finance,119441.0,9.0,Female,Hyderabad,2020-07-13,Full-Time
+EMP0220,55.0,Finance,124908.0,10.0,Female,Mumbai,2024-06-03,
+EMP0277,38.0,Operations,77603.0,6.0,Female,Mumbai,2024-12-22,Full-Time
+EMP0281,31.0,IT,30860.0,12.0, female ,HYDERABAD,2020-04-04,
+EMP0115,40.0,IT,116773.0,10.0,Male,Delhi,2019-10-22,Full-Time
+EMP0182,26.0,Operations,87619.0,20.0,Male,Pune,2021-06-22,Full-Time
+EMP0262,27.0,IT,117563.0,10.0,Male, Pune  ,2024-04-05,Full-Time
+EMP0268,34.0,HR,108312.0,8.0,Male,Chennai,2020-03-26,Full-Time
+EMP0086,47.0,IT,104491.0,13.0,Female,Delhi,2021-01-09,Contract
+EMP0088,,Operations,83149.0,6.0,Other,Mumbai,2020-10-21,Full-Time
+EMP0271,32.0,Operations,68988.0,13.0,Male,Delhi,2019-04-23,Contract
+EMP0118,26.0,IT,72692.0,10.0,Female,Mumbai,2025-12-28,Full-Time
+EMP0209,31.0,HR,62265.0,19.0,,Hyderabad,2021-02-26,Contract
+EMP0047,37.0,Operations,69431.0,20.0,Female,Mumbai,2020-03-27,Full-Time
+EMP0125,53.0,Finance,102954.0,17.0,Female,Mumbai,2021-10-22,Full-Time
+EMP0127,24.0,Operations,96286.0,1.0, Female  ,Mumbai,2025-02-22,Full-Time
+EMP0202,55.0,Marketing,53098.0,9.0,Female,Bengaluru,2020-01-03,Full-Time
+EMP0074,,HR,31794.0,9.0,Male,Chennai,2024-05-09,Full-Time
+EMP0084,52.0,,120765.0,13.0,Female,Chennai,2023-07-07,Full-Time
+EMP0231,38.0,Finance,47329.0,8.0,male,Pune,2019-06-16,Contract
+EMP0104,21.0,Operations,,18.0,Male,Delhi,2021-05-09,Full-Time
+EMP0058,26.0,OPERATIONS,87191.0,13.0,Female,Pune,2023-06-05,Part-Time
+EMP0068,35.0,HR,110654.0,6.0,Other,Hyderabad,2024-11-26,Contract
+EMP0299,,MARKETING,29230.0,16.0,Female, hyderabad ,2020-10-06,FULL-TIME
+EMP0189,30.0,Marketing,78085.0,13.0,Male,Delhi,2025-07-22,
+EMP0089,50.0,Operations,,5.0,Male,Bengaluru,2022-03-26,Full-Time
+EMP0005,37.0,Finance,107084.0,9.0, Other  ,Bengaluru,2025-02-05,Full-Time
+EMP0286,56.0, operations ,97666.0,6.0,Female,Pune,31/31/2024,Full-Time
+EMP0275,36.0,IT,93830.0,0.0,Male,Hyderabad,2023-11-23,Full-Time
+EMP0136,32.0,IT,91137.0,15.0, male ,Bengaluru,2024-07-14,Contract
+EMP0093,52.0,HR,117932.0,4.0,Female,CHENNAI,,Full-Time
+EMP0280,24.0,IT,86891.0,0.0,Male,Bengaluru,2023-07-30,Full-Time
+EMP0256,26.0,Finance,109489.0,12.0, female ,,2021-07-29,Full-Time
+EMP0061,56.0, Operations  ,40202.0,3.0,Female,,2024-08-30,Full-Time
+EMP0224,,OPERATIONS,88963.0,5.0, male ,Pune,2023-07-26,Full-Time
+EMP0097,30.0,IT,96351.0,11.0,Male,Pune,2021-01-13,Full-Time
+EMP0081,, it ,97512.0,12.0, Female  ,Mumbai,2023-11-25,Full-Time
+EMP0171,25.0,Marketing,89148.0,14.0,Female,Hyderabad,2021-03-30,FULL-TIME
+EMP0135,51.0,Finance,43451.0,1.0,Female,,not-a-date,Contract
+EMP0019,52.0,,28296.0,5.0,Female,Bengaluru,2022-10-28,Full-Time
+EMP0091,37.0,Marketing,124656.0,7.0,Female,,2021-07-16,full-time
+EMP0251,27.0,Operations,122945.0,7.0,Female,Delhi,2022-10-09,part-time
+EMP0210,50.0,HR,124695.0,0.0,Other,Pune,2022-09-27,Full-Time
+EMP0151,53.0, operations ,121014.0,10.0,Female,Chennai,2022-07-18,Part-Time
+EMP0054,38.0,Finance,104853.0,8.0,Female,Bengaluru,2022-10-24,Full-Time
+EMP0218,24.0,IT,,12.0,Male, hyderabad ,2022-01-20, full-time 
+EMP0002,50.0,Operations,102237.0,0.0,Male,MUMBAI,2023-09-04,Full-Time
+EMP0121,37.0,Operations,36331.0,1.0,Male,Mumbai,,full-time
+EMP0236,48.0,IT,102007.0,1.0,Male,Chennai,2022-10-10,Contract
+EMP0161,58.0,Marketing,40128.0,16.0,Male,Chennai,, full-time 
+EMP0124,38.0,Finance,34332.0,17.0,Other,Mumbai,2021-12-17,Part-Time
+EMP0158,42.0,Marketing,61482.0,16.0,Male,Pune,2023-07-27,Full-Time
+EMP0227,,Operations,92115.0,17.0,Male,Pune,2021-05-25,Full-Time
+EMP0106,50.0,Finance,80190.0,19.0,Male,Delhi,2024-08-01,Contract
+EMP0006,53.0,IT,77215.0,,Male,Bengaluru,2020-12-04,Full-Time
+EMP0108,46.0,IT,80960.0,10.0,Male, bengaluru ,2024-11-15, full-time 
+EMP0026,45.0,HR,45954.0,19.0,Female,Chennai,,Contract
+EMP0149,52.0,Finance,54241.0,14.0,Male,Bengaluru,2020-02-03,Full-Time
+EMP0080,46.0,HR,118402.0,11.0,Female,Bengaluru,2022-03-13,Full-Time
+EMP0205,38.0,HR,98038.0,6.0,Female,Hyderabad,2025-05-30,Full-Time
+EMP0114,38.0,IT,100684.0,6.0,Male,Hyderabad,2019-10-23,Full-Time
+EMP0163,36.0,MARKETING,119754.0,3.0,Female,Bengaluru,2019-03-23,Full-Time
+EMP0222,38.0,IT,90566.0,1.0,Male,Pune,2019-03-31,Full-Time
+EMP0221,25.0,HR,,0.0,Female,Delhi,2019-09-10,Full-Time
+EMP0199,33.0,Operations,54485.0,0.0,Male,Delhi,2020-07-21,Full-Time
+EMP0234,49.0,HR,36731.0,16.0,Male,Hyderabad,2024-10-05,Full-Time
+EMP0150,23.0,HR,38234.0,2.0,Male,Delhi,2021-12-18,Full-Time
+EMP0056,22.0,Operations,76870.0,12.0,Female,Chennai,2022-06-06,Contract
+EMP0153,55.0,Finance,30884.0,,Female,bengaluru,31/31/2024,Full-Time
+EMP0143,31.0,IT,87353.0,8.0,male,Chennai,2022-03-03,Full-Time
+EMP0257,,Marketing,47223.0,2.0,Male,Hyderabad,2021-11-18,Full-Time
+EMP0116,42.0,Marketing,104323.0,17.0,Female,Pune,2021-09-24,Full-Time
+EMP0164,36.0,Finance,118423.0,14.0,Female,Hyderabad,2022-08-13,Full-Time
+EMP0253,28.0,Operations,121209.0,9.0,Male,Mumbai,2024-01-01,Contract
+EMP0168,27.0,FINANCE,71375.0,13.0,Female,mumbai,2024-02-05,Full-Time
+EMP0261,51.0,Finance,121725.0,12.0,Male,Chennai,2023-07-17,Part-Time
+EMP0024,56.0,Operations,64940.0,3.0,FEMALE,Chennai,2023-04-09,full-time
+EMP0207,50.0, Finance  ,78125.0,5.0,Male,Mumbai,2021-04-13,Contract
+EMP0187,27.0,HR,25335.0,16.0,male,,2025-05-05,Full-Time
+EMP0067,55.0,finance,73840.0,12.0,Male,Bengaluru,,Full-Time
+EMP0237,46.0,Finance,105260.0,15.0,Male,Pune,2022-03-08,Full-Time
+EMP0249,50.0,Finance,,14.0,Female,Hyderabad,2020-05-30,Full-Time
+EMP0107,50.0,Finance,22808.0,17.0,Male, delhi ,2019-12-10,Full-Time
+EMP0053,34.0,HR,42842.0,12.0,Male,Mumbai,2024-12-30,Full-Time
+EMP0195,57.0,HR,66424.0,6.0,Female,HYDERABAD,2024-01-01,Part-Time
+EMP0041,27.0,Marketing,91097.0,14.0,Male,Mumbai,2023-11-27,Contract
+EMP0133,24.0,Operations,116928.0,15.0,Female,Chennai,,Full-Time
+EMP0225,48.0,HR,86202.0,17.0,Male,,2024-03-24,Full-Time
+EMP0128,50.0,Operations,31034.0,5.0,,Bengaluru,2025-07-13,Full-Time
+EMP0130,45.0, marketing ,89760.0,7.0,Male,Chennai,2025-11-12,Full-Time
+EMP0179,55.0,Marketing,49909.0,8.0,Male,Bengaluru,2021-07-31,Full-Time
+EMP0296,40.0,Operations,84989.0,13.0,Male, hyderabad ,,
+EMP0147,,HR,76816.0,5.0,FEMALE,Bengaluru,2023-01-11,Full-Time
+EMP0011,41.0,Marketing,107871.0,16.0,Male,Delhi,2020-12-19,Part-Time
+EMP0196,24.0,Finance,52422.0,1.0,Female,,2024-08-11,Full-Time
+EMP0025,50.0,Operations,84230.0,5.0,Other,Hyderabad,2024-03-21,Full-Time
+EMP0015,48.0,HR,,12.0,Female,Chennai,2024-03-11, full-time 
+EMP0063,34.0,HR,25620.0,17.0,Female, chennai ,2021-10-27,Full-Time
+EMP0036,23.0,,92632.0,,Female,Bengaluru,2023-10-19,
+EMP0044,34.0,Finance,71534.0,9.0,Female,Chennai,2023-04-10,Full-Time
+EMP0175,47.0,Marketing,109173.0,9.0, Female  ,Pune,2020-03-30, Contract  
+EMP0066,33.0,Finance,,12.0,Male,Mumbai,2025-06-20,part-time
+EMP0273,26.0,HR,33714.0,8.0,Other,,2019-06-06,Full-Time
+EMP0046,57.0,HR,55821.0,2.0,Male,Pune,2022-02-09, Full-Time  
+EMP0007,24.0,HR,55277.0,8.0,MALE,Bengaluru,2024-05-12,Full-Time
+EMP0293,57.0,HR,75823.0,3.0,Female,HYDERABAD,2023-04-28,Full-Time
+EMP0048,54.0,Operations,77150.0,2.0,Male,Pune,2025-07-21,Full-Time
+EMP0034,42.0,OPERATIONS,61085.0,45.0,Female,Bengaluru,2021-10-18,Full-Time
+EMP0060,46.0,Marketing,51680.0,,Female,Hyderabad,2021-05-04,CONTRACT
+EMP0100,,HR,31790.0,10.0, female ,Mumbai,2020-03-04,Full-Time
+EMP0062,,,97694.0,8.0,Male,delhi,2020-09-16,Full-Time
+EMP0075,47.0,Operations,,3.0,Male, Mumbai  ,2020-08-19,Full-Time
+EMP0294,,,122962.0,14.0,Female, Delhi  ,2020-07-18,Part-Time
+EMP0120,25.0,Finance,83758.0,2.0,Other,PUNE,2020-05-07,Contract
+EMP0090,52.0,IT,102611.0,16.0,Male,Mumbai,2023-02-07,Full-Time
+EMP0213,50.0,OPERATIONS,92503.0,4.0,Other,Bengaluru,2022-07-28,Contract
+EMP0146,53.0,Marketing,59512.0,3.0,Male,Bengaluru,2024-10-29,Full-Time
+EMP0013,48.0,IT,102766.0,7.0,Other,Hyderabad,2025-05-27,Full-Time
+EMP0022,35.0,,71221.0,12.0,Male,Hyderabad,,
+EMP0105,51.0,Finance,35322.0,2.0, female ,Delhi,2022-03-08,Part-Time
+EMP0282,39.0,Operations,109667.0,19.0,Male,Bengaluru,2022-02-21,Full-Time
+EMP0180,40.0,it,109605.0,17.0, Male  ,Hyderabad,2023-09-15,Full-Time
+EMP0028,,IT,59854.0,6.0,Female,Chennai,2023-05-19,Full-Time
+EMP0037,53.0,Operations,46251.0,3.0,Male,Chennai,2022-10-24,Full-Time
+EMP0229,41.0,Operations,110935.0,11.0,Male,Pune,2019-03-09,Part-Time
+EMP0193,44.0,Marketing,96427.0,17.0,Female,Delhi,,Full-Time
+EMP0073,38.0,Finance,87531.0,10.0,Other,pune,2025-12-23,Full-Time
+EMP0178,27.0,IT,34203.0,3.0,Female,Mumbai,2019-05-12,
+EMP0284,39.0,IT,37987.0,9.0,Female,Hyderabad,2021-10-01,Full-Time
+EMP0203,39.0,Operations,75102.0,19.0,Male,Mumbai,2022-12-28,Contract
+EMP0111,31.0,IT,91966.0,5.0,Other,Bengaluru,2023-11-25,full-time
+EMP0092,51.0,IT,103897.0,,Male,Delhi,2021-11-14,Full-Time
+EMP0027,36.0,,56838.0,11.0,Male,Bengaluru,2021-02-25,Full-Time
+EMP0064,57.0,Operations,42847.0,4.0, female ,Mumbai,2025-05-22,Contract
+EMP0009,28.0,HR,121600.0,7.0,Male,Bengaluru,2020-12-18,Full-Time
+EMP0061,56.0, Operations  ,40202.0,3.0,Female,,2024-08-30,Full-Time
+EMP0050,50.0,IT,109402.0,5.0,,Bengaluru,2024-12-23,Contract
+EMP0235,39.0,Finance,109998.0,12.0,Male,Chennai,2022-11-15,Full-Time
+EMP0057,41.0,IT,100927.0,8.0,Male,Mumbai,2022-02-06,Part-Time
+EMP0142,29.0,HR,100541.0,17.0,Female,Delhi,2023-08-24,Part-Time
+EMP0045,23.0,Operations,101340.0,2.0,Male,Hyderabad,2021-07-16,FULL-TIME
+EMP0003,45.0,IT,98122.0,4.0,Male,Mumbai,2020-03-16,Part-Time
+EMP0292,31.0,Operations,95120.0,5.0,Other,Delhi,2020-05-06,Part-Time
+EMP0033,24.0,HR,66691.0,5.0,Female,Pune,2022-08-21,Full-Time
+EMP0230,27.0,Operations,24986.0,13.0,Female,Mumbai,2020-01-11,Full-Time
+EMP0238,37.0,IT,42415.0,7.0,Other,Bengaluru,2024-09-25,Full-Time
+EMP0274,57.0,IT,34867.0,3.0,,Mumbai,2021-10-15,Full-Time
+EMP0031,38.0,Finance,97906.0,11.0,Male,Mumbai,2024-01-10,Full-Time
+EMP0186,37.0,HR,82591.0,17.0,Female,Hyderabad,2024-10-28,Full-Time
+EMP0167,33.0,IT,85106.0,19.0,Female,Mumbai,2023-10-14,Full-Time
+EMP0263,32.0,Finance,34383.0,17.0,MALE,Bengaluru,2025-09-25,Full-Time
+EMP0132,42.0,Marketing,65117.0,3.0,,Mumbai,2019-06-28,Full-Time
+EMP0267,37.0,HR,106440.0,0.0,Male,Hyderabad,2021-05-12,Full-Time
+EMP0185,39.0,Finance,71252.0,4.0,Other,Pune,2023-10-08,Contract
+EMP0042,49.0,HR,116384.0,8.0,Male,Bengaluru,2025-02-15,Full-Time
+EMP0018,25.0,Marketing,49445.0,,Female,Delhi,2022-10-18,Full-Time
+EMP0239,32.0,Finance,23500.0,15.0,Female,Chennai,2019-04-22,Contract
+EMP0008,145.0,Finance,74965.0,3.0,Female,Mumbai,2019-12-21,Full-Time
+EMP0040,45.0,Operations,119733.0,10.0,Male,Pune,2021-10-19,Full-Time
+EMP0032,29.0,HR,55732.0,14.0,Male,Chennai,2025-10-31,Full-Time
+EMP0279,23.0,Operations,78472.0,5.0,Male,Delhi,2025-11-30,Full-Time
+EMP0241,26.0,Marketing,51757.0,18.0,Female,Delhi,2021-12-18,Full-Time
+EMP0144,36.0,Finance,49865.0,7.0,Female,Bengaluru,2019-10-13,
+EMP0242,43.0,IT,89596.0,7.0,Male,Chennai,2021-10-05,Full-Time
+EMP0112,50.0,,75831.0,16.0,Male, chennai ,2024-06-02,Contract
