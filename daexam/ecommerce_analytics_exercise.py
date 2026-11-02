@@ -25,7 +25,7 @@ def phase_1_discovery_and_setup():
     # TODO: Print first 5 rows and verify dataset shape
     # TODO: Check for any missing values
     
-    file_path = "daexam/ecommerce_customer_data.csv"
+    file_path = "ecommerce_customer_data.csv"
     
     df=pd.read_csv(file_path)
     print(df.head(5))
@@ -62,6 +62,8 @@ def phase_2_descriptive_statistics(df):
 
     print("Lower Bound " , lowwer_bound)
     print("Upper Bound " , upper_bound)
+    
+    return df
 
 def phase_3_bivariate_association(df):
     """
@@ -80,6 +82,7 @@ def phase_3_bivariate_association(df):
     
     print(corr['Annual_Spend_USD'].sort_values(ascending = False))
 
+    return df
 
 def phase_4_predictive_modeling(df):
     """
